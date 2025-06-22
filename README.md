@@ -184,4 +184,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Built with ❤️ using Python, Flask, and Google Gemini AI
+Built with ❤️ By Hariom Pandit
